@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Driven",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Driven"
+	}
+}
